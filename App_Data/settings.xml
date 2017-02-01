@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <blogrollmaxlength>23</blogrollmaxlength>
+  <enabletrackbackreceive>True</enabletrackbackreceive>
+  <trustauthenticatedusers>True</trustauthenticatedusers>
+  <administratorrole>Administrators</administratorrole>
+  <contactthankmessage>&lt;h1&gt;Thank you&lt;/h1&gt;&lt;p&gt;The message was sent.&lt;/p&gt;</contactthankmessage>
+  <postsperpage>10</postsperpage>
+  <compresswebresource>True</compresswebresource>
+  <authorname>My name</authorname>
+  <displaycommentsonrecentposts>True</displaycommentsonrecentposts>
+  <alternatefeedurl />
+  <contactformmessage>&lt;p&gt;Thank you for submitting your message. We'll answer as soon as we possibly can.&lt;/p&gt;</contactformmessage>
+  <enablerating>False</enablerating>
+  <theme>Newspaper</theme>
+  <geocodinglatitude>0</geocodinglatitude>
+  <commentsperpage>50</commentsperpage>
+  <avatar>wavatar</avatar>
+  <enablereferrertracking>False</enablereferrertracking>
+  <enablerelatedposts>True</enablerelatedposts>
+  <blogrollvisibleposts>3</blogrollvisibleposts>
+  <enablecommentsmoderation>True</enablecommentsmoderation>
+  <postsperfeed>10</postsperfeed>
+  <enablecontactattachments>True</enablecontactattachments>
+  <emailsubjectprefix>WebSite Notification</emailsubjectprefix>
+  <enablecommentsearch>True</enablecommentsearch>
+  <numberofrecentposts>10</numberofrecentposts>
+  <enableopensearch>True</enableopensearch>
+  <culture>Auto</culture>
+  <descriptioncharactersforpostsbytagorcategory>0</descriptioncharactersforpostsbytagorcategory>
+  <smtpusername>username</smtpusername>
+  <name>Arizona Democracy Watch</name>
+  <timestamppostlinks>False</timestamppostlinks>
+  <sendmailoncomment>False</sendmailoncomment>
+  <enableerrorlogging>False</enableerrorlogging>
+  <smtpserver>s2smtpout.secureserver.net </smtpserver>
+  <geocodinglongitude>0</geocodinglongitude>
+  <showpostnavigation>True</showpostnavigation>
+  <iscommentnestingenabled>True</iscommentnestingenabled>
+  <enablessl>False</enablessl>
+  <enablehttpcompression>True</enablehttpcompression>
+  <moderationtype>1</moderationtype>
+  <numberofreferrerdays>7</numberofreferrerdays>
+  <mobiletheme>Mobile</mobiletheme>
+  <enableenclosures>False</enableenclosures>
+  <enablecountryincomments>True</enablecountryincomments>
+  <showdescriptioninpostlist>False</showdescriptioninpostlist>
+  <numberofrecentcomments>10</numberofrecentcomments>
+  <iscommentsenabled>False</iscommentsenabled>
+  <smtpserverport>25</smtpserverport>
+  <useblognameinpagetitles>False</useblognameinpagetitles>
+  <email>tstahl@copperbyte.com</email>
+  <storagelocation>~/App_Data/</storagelocation>
+  <commentwhitelistcount>5</commentwhitelistcount>
+  <enabletrackbacksend>True</enabletrackbacksend>
+  <handlewwwsubdomain />
+  <fileextension>.aspx</fileextension>
+  <descriptioncharacters>300</descriptioncharacters>
+  <description>Stay Woke!</description>
+  <searchdefaulttext>Enter search term or APML url</searchdefaulttext>
+  <searchcommentlabeltext>Include comments in search</searchcommentlabeltext>
+  <displayratingsonrecentposts>True</displayratingsonrecentposts>
+  <requiresslmetaweblogapi>False</requiresslmetaweblogapi>
+  <dayscommentsareenabled>0</dayscommentsareenabled>
+  <commentblacklistcount>2</commentblacklistcount>
+  <syndicationformat>Rss</syndicationformat>
+  <removewhitespaceinstylesheets>True</removewhitespaceinstylesheets>
+  <searchbuttontext>Search</searchbuttontext>
+  <iscocommentenabled>False</iscocommentenabled>
+  <timezone>9</timezone>
+  <showdescriptioninpostlistforpostsbytagorcategory>False</showdescriptioninpostlistforpostsbytagorcategory>
+  <showlivepreview>True</showlivepreview>
+  <enablepingbacksend>True</enablepingbacksend>
+  <enablepingbackreceive>True</enablepingbackreceive>
+  <htmlheader></htmlheader>
+  <trackingscript></trackingscript>
+  <blogrollupdateminutes>60</blogrollupdateminutes>
+  <commentreportmistakes>True</commentreportmistakes>
+  <language>en-US</language>
+  <smtppassword>password</smtppassword>
+</settings>

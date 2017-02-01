@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>Privacy Policy</title>
+  <description />
+  <content>&lt;div&gt;
+&lt;p&gt;This website does not collect any personal information.&lt;/p&gt;
+&lt;/div&gt;</content>
+  <keywords />
+  <slug>Privacy-Policy</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <datecreated>2016-03-25 21:53:36</datecreated>
+  <datemodified>2016-03-25 21:53:36</datemodified>
+</page>
